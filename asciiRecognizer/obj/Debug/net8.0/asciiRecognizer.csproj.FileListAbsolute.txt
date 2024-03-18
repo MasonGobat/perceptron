@@ -1,0 +1,17 @@
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\asciiRecognizer.exe
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\asciiRecognizer.deps.json
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\asciiRecognizer.runtimeconfig.json
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\asciiRecognizer.dll
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\asciiRecognizer.pdb
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.AssemblyInfoInputs.cache
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.AssemblyInfo.cs
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.dll
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\refint\asciiRecognizer.dll
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.pdb
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.genruntimeconfig.cache
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\ref\asciiRecognizer.dll
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRecognizer.csproj.AssemblyReference.cache
+C:\Users\Mason Gobat\Downloads\machineLearning\asciiRecognizer\obj\Debug\net8.0\asciiRec.014059D4.Up2Date
